@@ -1,0 +1,136 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=C:\Users\sj\Documents\Subversion\PIC24\BMS2\MP8\ADC.o
+Folder=Intermediary
+DeviceName=PIC24HJ128GP202
+LanguageToolSuiteID={9BCCB495-CD65-480A-BA76-63D8E78B117F}
+LanguageToolID={B1442D91-FF1F-4E60-9714-C39C1BA9DB62}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc16\v1.11\bin\xc16-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|ADC.c|main.c|configuration_bits.c|ltc.c|datastore.c|relay.c|LED.c|rs485.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_PICKIT2=1
+[File001]
+Location=C:\Users\sj\Documents\Subversion\PIC24\BMS2\MP8\main.o
+Folder=Intermediary
+DeviceName=PIC24HJ128GP202
+LanguageToolSuiteID={9BCCB495-CD65-480A-BA76-63D8E78B117F}
+LanguageToolID={B1442D91-FF1F-4E60-9714-C39C1BA9DB62}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc16\v1.11\bin\xc16-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|ADC.c|main.c|configuration_bits.c|ltc.c|datastore.c|relay.c|LED.c|rs485.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_PICKIT2=1
+[File002]
+Location=C:\Users\sj\Documents\Subversion\PIC24\BMS2\MP8\configuration_bits.o
+Folder=Intermediary
+DeviceName=PIC24HJ128GP202
+LanguageToolSuiteID={9BCCB495-CD65-480A-BA76-63D8E78B117F}
+LanguageToolID={B1442D91-FF1F-4E60-9714-C39C1BA9DB62}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc16\v1.11\bin\xc16-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|ADC.c|main.c|configuration_bits.c|ltc.c|datastore.c|relay.c|LED.c|rs485.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_PICKIT2=1
+[File003]
+Location=C:\Users\sj\Documents\Subversion\PIC24\BMS2\MP8\ltc.o
+Folder=Intermediary
+DeviceName=PIC24HJ128GP202
+LanguageToolSuiteID={9BCCB495-CD65-480A-BA76-63D8E78B117F}
+LanguageToolID={B1442D91-FF1F-4E60-9714-C39C1BA9DB62}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc16\v1.11\bin\xc16-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|ADC.c|main.c|configuration_bits.c|ltc.c|datastore.c|relay.c|LED.c|rs485.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_PICKIT2=1
+[File004]
+Location=C:\Users\sj\Documents\Subversion\PIC24\BMS2\MP8\datastore.o
+Folder=Intermediary
+DeviceName=PIC24HJ128GP202
+LanguageToolSuiteID={9BCCB495-CD65-480A-BA76-63D8E78B117F}
+LanguageToolID={B1442D91-FF1F-4E60-9714-C39C1BA9DB62}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc16\v1.11\bin\xc16-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|ADC.c|main.c|configuration_bits.c|ltc.c|datastore.c|relay.c|LED.c|rs485.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_PICKIT2=1
+[File005]
+Location=C:\Users\sj\Documents\Subversion\PIC24\BMS2\MP8\relay.o
+Folder=Intermediary
+DeviceName=PIC24HJ128GP202
+LanguageToolSuiteID={9BCCB495-CD65-480A-BA76-63D8E78B117F}
+LanguageToolID={B1442D91-FF1F-4E60-9714-C39C1BA9DB62}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc16\v1.11\bin\xc16-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|ADC.c|main.c|configuration_bits.c|ltc.c|datastore.c|relay.c|LED.c|rs485.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_PICKIT2=1
+[File006]
+Location=C:\Users\sj\Documents\Subversion\PIC24\BMS2\MP8\LED.o
+Folder=Intermediary
+DeviceName=PIC24HJ128GP202
+LanguageToolSuiteID={9BCCB495-CD65-480A-BA76-63D8E78B117F}
+LanguageToolID={B1442D91-FF1F-4E60-9714-C39C1BA9DB62}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc16\v1.11\bin\xc16-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|ADC.c|main.c|configuration_bits.c|ltc.c|datastore.c|relay.c|LED.c|rs485.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_PICKIT2=1
+[File007]
+Location=C:\Users\sj\Documents\Subversion\PIC24\BMS2\MP8\rs485.o
+Folder=Intermediary
+DeviceName=PIC24HJ128GP202
+LanguageToolSuiteID={9BCCB495-CD65-480A-BA76-63D8E78B117F}
+LanguageToolID={B1442D91-FF1F-4E60-9714-C39C1BA9DB62}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc16\v1.11\bin\xc16-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|ADC.c|main.c|configuration_bits.c|ltc.c|datastore.c|relay.c|LED.c|rs485.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_PICKIT2=1
+[File008]
+Location=C:\Users\sj\Documents\Subversion\PIC24\BMS2\MP8\BMS.cof
+Folder=Output
+DeviceName=PIC24HJ128GP202
+LanguageToolSuiteID={9BCCB495-CD65-480A-BA76-63D8E78B117F}
+LanguageToolID={6836D8CA-42BB-48FB-9E77-3F0AA8005073}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc16\v1.11\bin\xc16-ld.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|ADC.c|main.c|configuration_bits.c|ltc.c|datastore.c|relay.c|LED.c|rs485.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=--heap=2500 -Map="$(BINDIR_)$(TARGETBASE).map" --report-mem -o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)"
+TraceCmdString=
+DebugOptions=--defsym=__MPLAB_DEBUG=1 --defsym=__MPLAB_DEBUGGER_PICKIT2=1 --defsym=__ICD2RAM=1
+[File009]
+Location=C:\Users\sj\Documents\Subversion\PIC24\BMS2\MP8\BMS.hex
+Folder=Output
+DeviceName=PIC24HJ128GP202
+LanguageToolSuiteID={9BCCB495-CD65-480A-BA76-63D8E78B117F}
+LanguageToolID={6836D8CA-42BB-48FB-9E77-3F0AA8005073}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\xc16\v1.11\bin\xc16-ld.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|ADC.c|main.c|configuration_bits.c|ltc.c|datastore.c|relay.c|LED.c|rs485.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=--heap=2500 -Map="$(BINDIR_)$(TARGETBASE).map" --report-mem -o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)"
+TraceCmdString=
+DebugOptions=--defsym=__MPLAB_DEBUG=1 --defsym=__MPLAB_DEBUGGER_PICKIT2=1 --defsym=__ICD2RAM=1
+[TOOL_LOC_STAMPS]
+tool_loc{B1442D91-FF1F-4E60-9714-C39C1BA9DB62}=C:\Program Files (x86)\Microchip\xc16\v1.11\bin\xc16-gcc.exe
+tool_loc{6836D8CA-42BB-48FB-9E77-3F0AA8005073}=C:\Program Files (x86)\Microchip\xc16\v1.11\bin\xc16-ld.exe

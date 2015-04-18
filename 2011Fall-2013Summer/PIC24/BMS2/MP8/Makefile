@@ -1,0 +1,32 @@
+# MPLAB IDE generated this makefile for use with GNU make.
+# Project: BMS.mcp
+# Date: Sat May 11 20:44:56 2013
+
+AS = xc16-as.exe
+CC = xc16-gcc.exe
+LD = xc16-ld.exe
+AR = xc16-ar.exe
+HX = xc16-bin2hex.exe
+RM = rm
+
+BMS.hex : BMS.cof
+	$(HX) "BMS.cof" -omf=coff
+
+BMS.cof : ADC.o main.o configuration_bits.o ltc.o
+	$(CC) -omf=coff -mcpu=24HJ128GP202 "ADC.o" "main.o" "configuration_bits.o" "ltc.o" -o"BMS.cof" -Wl,-Tp24HJ128GP202.gld,--defsym=__MPLAB_BUILD=1,--defsym=__MPLAB_DEBUG=1,--defsym=__MPLAB_DEBUGGER_PICKIT2=1,--defsym=__ICD2RAM=1,-Map="BMS.map",--report-mem
+
+ADC.o : ../../../../../../../program\ files\ (x86)/microchip/xc16/v1.11/support/PIC24H/h/p24HJ128GP202.h main.h relay.h ADC.h ADC.c
+	$(CC) -omf=coff -mcpu=24HJ128GP202 -x c -c "ADC.c" -o"ADC.o" -D__DEBUG -D__MPLAB_DEBUGGER_PICKIT2=1 -g -Wall
+
+main.o : ../../../../../../../program\ files\ (x86)/microchip/xc16/v1.11/include/stdbool.h ../../../../../../../program\ files\ (x86)/microchip/xc16/v1.11/include/stdint.h ../../../../../../../program\ files\ (x86)/microchip/xc16/v1.11/support/PIC24H/h/p24HJ128GP202.h ltc.h ADC.h main.h main.c
+	$(CC) -omf=coff -mcpu=24HJ128GP202 -x c -c "main.c" -o"main.o" -D__DEBUG -D__MPLAB_DEBUGGER_PICKIT2=1 -g -Wall
+
+configuration_bits.o : ../../../../../../../program\ files\ (x86)/microchip/xc16/v1.11/support/PIC24H/h/p24HJ128GP202.h ../../../../../../../program\ files\ (x86)/microchip/xc16/v1.11/support/generic/h/xc.h configuration_bits.c
+	$(CC) -omf=coff -mcpu=24HJ128GP202 -x c -c "configuration_bits.c" -o"configuration_bits.o" -D__DEBUG -D__MPLAB_DEBUGGER_PICKIT2=1 -g -Wall
+
+ltc.o : ../../../../../../../program\ files\ (x86)/microchip/xc16/v1.11/support/PIC24H/h/p24HJ128GP202.h ltc.h ltc.c
+	$(CC) -omf=coff -mcpu=24HJ128GP202 -x c -c "ltc.c" -o"ltc.o" -D__DEBUG -D__MPLAB_DEBUGGER_PICKIT2=1 -g -Wall
+
+clean : 
+	$(RM) "ADC.o" "main.o" "configuration_bits.o" "ltc.o" "BMS.cof" "BMS.hex"
+

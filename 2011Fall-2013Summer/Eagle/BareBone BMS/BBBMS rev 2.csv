@@ -1,0 +1,17 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"MF";"MPN";"OC_FARNELL";"OC_NEWARK";"PART_NUM";
+"7";"";"LEDCHIPLED_1206";"CHIPLED_1206";"OVERCURRENT, OVERTEMP1, OVERTEMP2, OVERVOLT, OVERVOLT_WARN, UNDERVOLT, UNDERVOLT_WARN";"LED";"";"";"";"";"";
+"7";"100";"R-US_R1206";"R1206";"R1, R5, R7, R8, R16, R27, R28";"RESISTOR, American symbol";"";"";"";"";"";
+"4";"100k";"R-US_R1206";"R1206";"R4, R6, R23, R24";"RESISTOR, American symbol";"";"";"";"";"";
+"2";"10K";"R-TRIMMTS63Y";"RTRIMTS63Y";"OVER_WARN, UNDER_WARN";"Trimm resistor";"";"";"";"";"";
+"2";"10k";"R-TRIMMTS63Y";"RTRIMTS63Y";"OVER_CRIT, UNDER_CRIT";"Trimm resistor";"";"";"";"";"";
+"5";"10k";"R-US_R1206";"R1206";"R15, R17, R18, R19, R20";"RESISTOR, American symbol";"";"";"";"";"";
+"4";"1k";"R-TRIMMTS63Y";"RTRIMTS63Y";"CURRENT_TRIM, OVER_TRIM, TEMP_TRIM, UNDER_TRIM";"Trimm resistor";"";"";"";"";"";
+"8";"1k";"R-US_R1206";"R1206";"R9, R10, R13, R14, R25, R31, R32, R33";"RESISTOR, American symbol";"";"";"";"";"";
+"4";"1uF";"C-USC1206";"C1206";"6103CAP1, 6103CAP2, 7805CAP1, 7805CAP2";"CAPACITOR, American symbol";"";"";"";"";"";
+"3";"350428-1";"350428-1";"350428-1";"CONTACTOR, POWER, VOLT";"Universal MATE-N-LOK .250" Centerline, 600 V, 19 - 36 A max";"";"";"";"";"";
+"1";"7805DT";"7805DT";"TO252";"IC2";"Positive VOLTAGE REGULATOR";"";"";"";"";"";
+"1";"AMP_LATCH_10";"AMP_LATCH_10";"MA05-2";"SV1";"";"";"";"";"";"5499922-1";
+"1";"G2REA";"G2REA";"G2REA";"K1";"RELAY";"";"";"unknown";"unknown";"";
+"2";"LM339D";"LM339D";"SO14";"IC1, IC3";"Low Power Low Offset Voltage Quad Comparators";"";"";"";"";"";
+"1";"MAX6103";"MAX6103";"SOT23";"3V1";"";"";"";"";"";"";
+"5";"N-HEXFET-2D_SOT232-";"N-HEXFET-2D_SOT232-";"SOT223";"OVERCURRENT_FET, OVERTEMP1_FET, OVERTEMP2_FET, OVERVOLT_FET, UNDERVOLT_FET";"HEXFET® Power MOSFET 2 Drain connects";"";"";"";"";"";

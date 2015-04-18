@@ -1,0 +1,35 @@
+C:\Users\APatel\Documents\Visual Studio 2012\Projects\HelloGUI_CSharp\GUI_SOLN\WpfApplication1\obj\Debug\HomeWindow.baml
+C:\Users\APatel\Documents\Visual Studio 2012\Projects\HelloGUI_CSharp\GUI_SOLN\WpfApplication1\obj\Debug\HomeWindow.g.cs
+C:\Users\APatel\Documents\Visual Studio 2012\Projects\HelloGUI_CSharp\GUI_SOLN\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\APatel\Documents\Visual Studio 2012\Projects\HelloGUI_CSharp\GUI_SOLN\WpfApplication1\obj\Debug\SJManage.csproj.GenerateResource.Cache
+C:\Users\APatel\Documents\Visual Studio 2012\Projects\HelloGUI_CSharp\GUI_SOLN\WpfApplication1\bin\Debug\SJManage.exe.config
+C:\Users\APatel\Documents\Visual Studio 2012\Projects\HelloGUI_CSharp\GUI_SOLN\WpfApplication1\bin\Debug\SJManage.exe
+C:\Users\APatel\Documents\Visual Studio 2012\Projects\HelloGUI_CSharp\GUI_SOLN\WpfApplication1\bin\Debug\SJManage.pdb
+C:\Users\APatel\Documents\Visual Studio 2012\Projects\HelloGUI_CSharp\GUI_SOLN\WpfApplication1\obj\Debug\SJManage_MarkupCompile.cache
+C:\Users\APatel\Documents\Visual Studio 2012\Projects\HelloGUI_CSharp\GUI_SOLN\WpfApplication1\obj\Debug\SJManage.g.resources
+C:\Users\APatel\Documents\Visual Studio 2012\Projects\HelloGUI_CSharp\GUI_SOLN\WpfApplication1\obj\Debug\SJManage.Properties.Resources.resources
+C:\Users\APatel\Documents\Visual Studio 2012\Projects\HelloGUI_CSharp\GUI_SOLN\WpfApplication1\obj\Debug\SJManage.exe
+C:\Users\APatel\Documents\Visual Studio 2012\Projects\HelloGUI_CSharp\GUI_SOLN\WpfApplication1\obj\Debug\SJManage.pdb
+C:\Users\APatel\Documents\Visual Studio 2012\Projects\HelloGUI_CSharp\GUI_SOLN\WpfApplication1\obj\Debug\SJManage.csprojResolveAssemblyReference.cache
+C:\Users\APatel\Documents\Visual Studio 2012\Projects\HelloGUI_CSharp\GUI_SOLN\SJManage\bin\Debug\SJManage.exe.config
+C:\Users\APatel\Documents\Visual Studio 2012\Projects\HelloGUI_CSharp\GUI_SOLN\SJManage\obj\Debug\SJManage.exe
+C:\Users\APatel\Documents\Visual Studio 2012\Projects\HelloGUI_CSharp\GUI_SOLN\SJManage\obj\Debug\SJManage.pdb
+C:\School\gtsolarjackets\HMI_Telem_GUI\GUI_SOLN\SJManage\bin\Debug\SJManage.exe.config
+C:\School\gtsolarjackets\HMI_Telem_GUI\GUI_SOLN\SJManage\obj\Debug\SJManage.exe
+C:\School\gtsolarjackets\HMI_Telem_GUI\GUI_SOLN\SJManage\obj\Debug\SJManage.pdb
+C:\School\gtsolarjackets\HMI_Telem_GUI\GUI_SOLN\SJManage\obj\Debug\SJManage.csprojResolveAssemblyReference.cache
+C:\School\gtsolarjackets\HMI_Telem_GUI\GUI_SOLN\SJManage\obj\Debug\src\GUI\Batteries\BatteriesStatus.baml
+C:\School\gtsolarjackets\HMI_Telem_GUI\GUI_SOLN\SJManage\obj\Debug\src\GUI\Batteries\BatteryStatus.baml
+C:\School\gtsolarjackets\HMI_Telem_GUI\GUI_SOLN\SJManage\obj\Debug\src\GUI\Batteries\MainBatteriesPage.baml
+C:\School\gtsolarjackets\HMI_Telem_GUI\GUI_SOLN\SJManage\obj\Debug\src\GUI\HomeWindow.baml
+C:\School\gtsolarjackets\HMI_Telem_GUI\GUI_SOLN\SJManage\obj\Debug\src\GUI\Batteries\BatteriesStatus.g.cs
+C:\School\gtsolarjackets\HMI_Telem_GUI\GUI_SOLN\SJManage\obj\Debug\src\GUI\Batteries\BatteryStatus.g.cs
+C:\School\gtsolarjackets\HMI_Telem_GUI\GUI_SOLN\SJManage\obj\Debug\src\GUI\Batteries\MainBatteriesPage.g.cs
+C:\School\gtsolarjackets\HMI_Telem_GUI\GUI_SOLN\SJManage\obj\Debug\src\GUI\HomeWindow.g.cs
+C:\School\gtsolarjackets\HMI_Telem_GUI\GUI_SOLN\SJManage\obj\Debug\App.g.cs
+C:\School\gtsolarjackets\HMI_Telem_GUI\GUI_SOLN\SJManage\obj\Debug\SJManage_MarkupCompile.cache
+C:\School\gtsolarjackets\HMI_Telem_GUI\GUI_SOLN\SJManage\obj\Debug\SJManage.g.resources
+C:\School\gtsolarjackets\HMI_Telem_GUI\GUI_SOLN\SJManage\obj\Debug\SJManage.Properties.Resources.resources
+C:\School\gtsolarjackets\HMI_Telem_GUI\GUI_SOLN\SJManage\obj\Debug\SJManage.csproj.GenerateResource.Cache
+C:\School\gtsolarjackets\HMI_Telem_GUI\GUI_SOLN\SJManage\bin\Debug\SJManage.exe
+C:\School\gtsolarjackets\HMI_Telem_GUI\GUI_SOLN\SJManage\bin\Debug\SJManage.pdb

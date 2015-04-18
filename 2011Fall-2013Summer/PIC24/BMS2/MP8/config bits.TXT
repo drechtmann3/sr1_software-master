@@ -1,0 +1,14 @@
+   Address    Value   Field                 Category                                                         Setting                                         
+
+   F80008     FFFA  POSCMD  Primary Oscillator Source               HS Oscillator Mode                                                                       
+                    OSCIOFNCOSC2 Pin Function                       OSC2 pin has digital I/O function                                                        
+                    IOL1WAY Peripheral Pin Select Configuration     Allow Only One Re-configuration                                                          
+                    FCKSM   Clock Switching and Monitor             Both Clock Switching and Fail-Safe Clock Monitor are disabled                            
+   F8000A     FF7F  WDTPOST Watchdog Timer Postscaler               1:32,768                                                                                 
+                    WDTPRE  WDT Prescaler                           1:128                                                                                    
+                    WINDIS  Watchdog Timer Window                   Watchdog Timer in Non-Window mode                                                        
+                    FWDTEN  Watchdog Timer Enable                   Watchdog timer enabled/disabled by user software                                         
+   F8000C     00F7  FPWRT   POR Timer Value                         128ms                                                                                    
+                    ALTI2C  Alternate I2C  pins                     I2C mapped to SDA1/SCL1 pins                                                             
+   F8000E     FF5F  ICS     Comm Channel Select                     Communicate on PGC1/EMUC1 and PGD1/EMUD1                                                 
+                    JTAGEN  JTAG Port Enable                        JTAG is Disabled                                                                         

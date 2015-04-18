@@ -1,0 +1,61 @@
+Overview
+	Customizable screen, where the user can select from a variety of options, what they want on the home screen
+	i.e. 	speed limit set
+			Overall voltage
+			GPS map
+			Wireless radio status
+			Notes
+			etc.
+
+Strategy
+	GPS data linked with google maps/earth, combined with race route and traffic info
+	wether forcasts, in projected areas
+	Estimates on power remaining, run time etc
+	Notes on race route
+
+Motor
+	Pedal positions
+	Current speed
+	Speed limit set (speed limiter)
+	Fault codes
+	Airgap position
+	Other usefull motor information
+
+Batteries/BMS
+	Graphical overview of batteries (green for good, yellow for warning, and red for disabled)
+	per battery, or smallest unit available, voltage, and current
+	Pack overviews, voltage and current
+	Expected run time remaing
+	Graph of voltage over time
+	Faults
+
+Solar/MPPT
+	Per array voltage and current (x4)
+	current output voltage
+	Faults
+
+Telemetry
+	Wireless radio status (connected, signal level)
+	Wireless radio power level (control)
+	View of the LCD screens
+	Blinker status
+	Brake light status
+	Graph over time of selected sensors, preferably 8 at a time (channels 1-32)
+	current values of all ADC inputs (channels 1-32)
+	Faults
+	
+Advanced
+	8 fully customizable graphs, where you can select to see the variable value(s) vs any other values or time
+		ie. Graph 1 (battery 1 and 2 voltages vs pack 1 amperage)
+			Graph 2 (battery 5 voltage vs time)
+			etc.
+
+Notes
+	Needs the ability to log and fetch, large quantities of data quickly
+	The goal of this program, is to be as modular and flexable as possible.
+		The input data, and variables need to be able to be changed quickly
+		The UI should be very customizable, so it can fit our race strategy and planning
+			I.E. We only have one person to drive the chase car, and they also need to be monitoring telem data
+	Audible alarms are needed for major errors
+	The screen size should scale to the display being used. For instance, the size of the graphs and windows should scale, so that they are proportionatly the same on a 18" monitor, as a 13" monitor
+	

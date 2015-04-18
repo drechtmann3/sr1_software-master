@@ -1,0 +1,38 @@
+Partlist exported from C:/Users/Reid Kersey/Documents/School/Solar Jackets/SubVersion/Eagle/Power Distribution Board/Power Distribution.sch at 11/14/2012 2:13:21 AM
+
+Part     Value   Device     Package Description                
+3V       MAX6103 MAX6103    SOT23                              
+3V1      MAX6103 MAX6103    SOT23                              
+3V2      MAX6103 MAX6103    SOT23                              
+317CAP1  .33uF   C-USC0402  C0402   CAPACITOR, American symbol 
+317CAP2  1uF     C-USC0402  C0402   CAPACITOR, American symbol 
+317CAP4  .33uF   C-USC0402  C0402   CAPACITOR, American symbol 
+317CAP5  1uF     C-USC0402  C0402   CAPACITOR, American symbol 
+317CAP6  .33uF   C-USC0402  C0402   CAPACITOR, American symbol 
+317CAP7  1uF     C-USC0402  C0402   CAPACITOR, American symbol 
+6103CAP1 1uF     C-USC0402  C0402   CAPACITOR, American symbol 
+6103CAP2 1uF     C-USC0402  C0402   CAPACITOR, American symbol 
+6103CAP3 1uF     C-USC0402  C0402   CAPACITOR, American symbol 
+6103CAP4 1uF     C-USC0402  C0402   CAPACITOR, American symbol 
+6103CAP5 1uF     C-USC0402  C0402   CAPACITOR, American symbol 
+6103CAP6 1uF     C-USC0402  C0402   CAPACITOR, American symbol 
+C1       1uF     C-USC0402  C0402   CAPACITOR, American symbol 
+C2       1uF     C-USC0402  C0402   CAPACITOR, American symbol 
+C3       1uF     C-USC0402  C0402   CAPACITOR, American symbol 
+C4       1uF     C-USC0402  C0402   CAPACITOR, American symbol 
+C5       1uF     C-USC0402  C0402   CAPACITOR, American symbol 
+C6       1uF     C-USC0402  C0402   CAPACITOR, American symbol 
+IC1      LM317   317EMP     SOT223  Positive VOLTAGE REGULATOR 
+IC2      LM317   317EMP     SOT223  Positive VOLTAGE REGULATOR 
+IC3      LM317   317EMP     SOT223  Positive VOLTAGE REGULATOR 
+JP1              PINHD-2X30 2X30    PIN HEADER                 
+JP2              PINHD-2X10 2X10    PIN HEADER                 
+PWR_1    7805DT  7805DT     TO252   Positive VOLTAGE REGULATOR 
+PWR_2    7805DT  7805DT     TO252   Positive VOLTAGE REGULATOR 
+PWR_3    7805DT  7805DT     TO252   Positive VOLTAGE REGULATOR 
+R1       220     R-US_M0805 M0805   RESISTOR, American symbol  
+R2       361     R-US_M0805 M0805   RESISTOR, American symbol  
+R3       220     R-US_M0805 M0805   RESISTOR, American symbol  
+R4       361     R-US_M0805 M0805   RESISTOR, American symbol  
+R5       220     R-US_M0805 M0805   RESISTOR, American symbol  
+R6       361     R-US_M0805 M0805   RESISTOR, American symbol  

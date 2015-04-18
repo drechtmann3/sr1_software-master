@@ -1,0 +1,3 @@
+Error[1027] C:\Users\Andrey\Documents\SJ\Microcontrollers\PIC 18\src\mplab8\main.c 7 : unable to locate 'system.h'
+Error[1027] C:\Users\Andrey\Documents\SJ\Microcontrollers\PIC 18\src\mplab8\main.c 8 : unable to locate 'user.h'
+Error[1027] C:\Users\Andrey\Documents\SJ\Microcontrollers\PIC 18\src\mplab8\main.c 9 : unable to locate 'cancom.h'

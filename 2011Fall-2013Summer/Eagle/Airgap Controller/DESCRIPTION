@@ -1,0 +1,11 @@
+Airgap board controls the airgap motor via inputs from the SBC.
+
+It uses 2 relays, 1 to control power flow, 1 to control power direction.
+
+There are 6 IO.
+12V
+GND
+Direction
+Power
+Motor +
+Motor -

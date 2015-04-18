@@ -1,0 +1,8 @@
+﻿<Window x:Class="SJManage.src.GUI.Batteries.TestWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:controls="clr-namespace:SJManage.src.GUI.Batteries"       
+        Title="TestWindow">
+    <Grid Name="grid">
+    </Grid>
+</Window>

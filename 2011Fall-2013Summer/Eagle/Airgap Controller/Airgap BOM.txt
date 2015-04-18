@@ -1,0 +1,16 @@
+Partlist exported from C:/Users/Reid Kersey/Documents/School/Solar Jackets/SubVersion/Eagle/Airgap Controller/Airgap.sch at 11/14/2012 2:11:12 AM
+
+Part   Value    Device     Package  Description                                                 MF                   MPN         OC_FARNELL OC_NEWARK
+D1     5KPXX    5KPXX      P6T15    DIODE                                                                                                            
+D2     5KPXX    5KPXX      P6T15    DIODE                                                                                                            
+IO     350428-1 350428-1   350428-1 Universal MATE-N-LOK .250" Centerline, 600 V, 19 - 36 A max                                                      
+K1     G2R2     G2R2       G2R2     RELAY                                                       OMRON COMPONENTS USA G2R-2-DC6   unknown    89C5317  
+K2     G2R2A    G2R2A      G2R2A    RELAY                                                                            G2R-2A-DC24 6985269    36M5257  
+OUTPUT 350428-1 350428-1   350428-1 Universal MATE-N-LOK .250" Centerline, 600 V, 19 - 36 A max                                                      
+POWER  350428-1 350428-1   350428-1 Universal MATE-N-LOK .250" Centerline, 600 V, 19 - 36 A max                                                      
+R1     1k       R-US_R0402 R0402    RESISTOR, American symbol                                                                                        
+R2     1k       R-US_R0402 R0402    RESISTOR, American symbol                                                                                        
+R3     1k       R-US_R0402 R0402    RESISTOR, American symbol                                                                                        
+R4     1k       R-US_R0402 R0402    RESISTOR, American symbol                                                                                        
+T1              NMOSSOT23  SOT-23   MOS FET                                                                                      unknown    unknown  
+T2              NMOSSOT23  SOT-23   MOS FET                                                                                      unknown    unknown  
