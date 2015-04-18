@@ -1,0 +1,84 @@
+Essentials
+	date
+	Time
+	date
+	speed
+	rpm
+	regen
+	airgap
+	battery
+	Computer box temp
+	Battery box temp 1
+	Battery box temp 2
+	Battery box temp 3
+	mppt temp 1
+	mppt temp 2
+	mppt temp 3
+	mppt temp 4
+	lat
+	long
+	errors (for multiple errors write all errors in " ", and each error on a new line)
+	
+CVT
+	date
+	time
+	date
+	ADC currents
+	bms currents
+	mppt currents
+	ADC volts
+	bms volts
+	mppt volts
+	ADC temps
+	bms temps
+	mppt temps
+	lat
+	long
+	CVT errors
+
+LCD
+	date
+	time
+	per lcd
+		page
+		error page
+	lcd errors
+	lcd general
+	lcd voltages
+	lcd currents
+	lcd temps
+	speed
+	curise
+	blinker
+	bat
+	lat
+	long
+	
+GPS
+	date
+	time
+	lat
+	long
+	heading
+	speed knots
+	altitude
+	angle
+	fix type
+	quality
+	num sat
+	dilution
+	GSA DOP
+	hdop
+	vdop
+	
+Everything
+	everything in datalog.c
+
+log
+	date
+	time
+	level (0=notice 1=warning 2=error)
+	message
+
+
+	

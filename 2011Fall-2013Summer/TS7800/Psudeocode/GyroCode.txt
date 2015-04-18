@@ -1,0 +1,29 @@
+psudocode
+
+select chip
+	make sure cs is high, then pull it low to begin gathering data
+determine if reading or writing
+	if writing, first bit will be a 1 
+	if reading, first bit will be a zero
+	set read/write bit accordingly 
+
+send remaining register value bits (7)
+		set bit
+		clock high 
+		clock low
+		repeat 6 more times
+
+if writing, write bit 
+	set bit
+	clock high
+	clock low
+	repeat for 8 bits
+	
+if reading read bits
+	clock high
+	read bit
+	clock low
+	shift 1
+	repeat 7 more times
+	
+exit function

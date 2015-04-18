@@ -1,0 +1,1 @@
+"C:/ti/controlSUITE/device_support/f2806x/v100/F2806x_headers/cmd/F2806x_Headers_nonBIOS.cmd" "./BlinkingLED-DevInit_F2806x.obj" "./F2806x_CodeStartBranch.obj" "./F2806x_GlobalVariableDefs.obj" "./I2CFuncs.obj" "./MPUFuncs.obj" "./main.obj" "../F28069.cmd" -l"libc.a" 

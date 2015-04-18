@@ -1,0 +1,14 @@
+public enum Device {
+	PRECHARGE,
+	MOTOR_CONTROLLER,
+	PEDALS,
+	BMS,
+	GPS,
+	IMU,
+	MPPT,
+	AIRGAP,
+	LIGHTS,
+	STEERING_WHEEL,
+	WIFI,
+	HORN
+}

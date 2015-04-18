@@ -1,0 +1,62 @@
+RS-485:
+	speed
+	cruise
+	blinker
+	rpm
+	regen
+	airgap
+	BMS (per module):
+		last measured current
+		temps(battery)
+		Voltages
+	MPPT:
+		Last_Measured_Input_Voltage
+		Last_Measured_Input_Current
+		Last_Measured_Output_Voltage
+		Last_Measured_Output_Current
+		Last_Measured_Averaged_Output_Current
+		Last_Measured_Computed_Averaged_Output_Current
+		ADC_Max
+		Present_Duty_Cycle
+		DC_max
+		algorithm_state_variable
+	
+Predetermined:
+	speedUnit
+
+ADC:
+	ADC Temps
+	ADC Voltages
+	ADC Currents
+
+Calculated:
+	LCDerrors
+		dynamic array filled with copies of constants
+	LCDgeneral
+		7 element text array containing
+			rpm
+			regen
+			airgap
+			battery
+			driver temp
+			AVG Voltage
+			AVG Current
+	LCDvoltages
+		7 element text array containing
+			7 of the most important voltages
+				possibly voltage averages
+	LCDcurrents
+		7 element text array containing
+			7 of the most important currents
+				possibly current averages
+	LCDtemps
+		7 element text aray containg
+			temperatures arround the car
+	battery
+		sum of all the voltages in a pack
+		average of all of the packs
+
+
+
+
+

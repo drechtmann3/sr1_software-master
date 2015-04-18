@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="supportingJars/gluegen-rt-natives-linux-amd64.jar"/>
+	<classpathentry kind="lib" path="supportingJars/gluegen-rt-natives-windows-amd64.jar"/>
+	<classpathentry kind="lib" path="supportingJars/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="supportingJars/jchart2d-3.2.2.jar"/>
+	<classpathentry kind="lib" path="supportingJars/jogl-all-natives-linux-amd64.jar"/>
+	<classpathentry kind="lib" path="supportingJars/jogl-all-natives-windows-amd64.jar"/>
+	<classpathentry kind="lib" path="supportingJars/jogl-all.jar"/>
+	<classpathentry kind="lib" path="supportingJars/jssc.jar"/>
+	<classpathentry kind="lib" path="supportingJars/worldwind.jar"/>
+	<classpathentry kind="lib" path="supportingJars/worldwindx.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
